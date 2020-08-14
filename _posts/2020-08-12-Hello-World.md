@@ -13,7 +13,6 @@ title: My opinion about the difference between data scientists and statisticians
 
 3.	What differences/similarities do you see between data scientists and statisticians?
   The similarity for data scientists and statisticians is that they are both working with Data. However, data scientists are managing them and statisticians are using them.
-
   After a year studying in the statistics program, I think statistics is more about the concept and the theory. We do hypothesis testing. Decide whether or not we reject our null hypothesis. We try new methods to find out probability, like bayesian or something. Also, we design an experiment for our research. These are something a statistician will do. However, when we do these jobs, we always need great data set to help us find our answer. So here comes a data scientist.
   The data scientist is also very important.  Sometimes manage those data is the hardest part for a statistician, in my opinion. Therefore, if a data scientist knows all the needs statisticians have, things will be way easier.
 
