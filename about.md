@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-My name is **Mu-Tien, Lee**. I'm a second-year master student in *statistics* at NCSU
+My name is **Mu-Tien, Lee**. I'm a second-year master student in *statistics* at NCSU. 
+I come from Taiwan.
+
 
 ### Hobby
 
