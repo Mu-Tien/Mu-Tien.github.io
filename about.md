@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is **Mu-Tien, Lee**. I'm a second-year master student in *statistics* at NCSU
 
-### More Information
+### Hobby
 
-A place to include any other types of information that you'd like to include about yourself.
+I like to play tennis during my free time. I also in love with disk golf recently.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mlee26@ncsu.edu](mailto:mlee26@ncsu.edu)
