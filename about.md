@@ -6,6 +6,7 @@ permalink: /about/
 
 My name is **Mu-Tien, Lee**. I'm a second-year master student in *statistics* at NCSU. 
 I come from Taiwan.
+https://raw.githubusercontent.com/Mu-Tien/Mu-Tien.github.io/master/images/taiwan_desktop_800x1280.jpg
 
 
 ### Hobby
