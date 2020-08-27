@@ -1,3 +1,7 @@
+---
+layout: post
+title: My coding history and relationship with R
+---
 
 
 **1. What are your thoughts on R vs whatever other software you've used?** \
