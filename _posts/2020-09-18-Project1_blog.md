@@ -3,7 +3,7 @@ layout: post
 title: My Project1- Data analysis about National Hocky League!
 ---
 
-Here's the link of my hithub pages repo: [my repo](https://mu-tien.github.io/ST558_Project1/)\
+Here's the link of my hithub pages repo: [my repo](https://mu-tien.github.io/ST558_Project1/)
 
 
 In this project I made some functions for user to reach to the endpoints they want. Also, I did some data analysis using different endpoints.
