@@ -4,13 +4,13 @@ title: My Project2- Training bicycle rental data in two different models!
 ---
 The main purpose of the project is to build a model that can predict the count of rantal of bikes.\
 During the project, I'm going to use the bike sharing data from [UCI machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset). 
-This file contain the data of the bicycle rentaling. I use the dataset with hour variables to do this project.\
+This file contain the data of the bicycle rentaling. I use the dataset with hour variables to do this project.
 
 I am going to use two different method to build my model.
 First, I will use leave one out cross validation to fit a tree-based regression model. 
 Secondly, I will fit a boosted tree model using cross validation. 
-After that, I will provide some prediction and compare these two model.\ 
-Notice that I'm going to separate my data by weekday. That is to say each weekday will have their own best model.\
+After that, I will provide some prediction and compare these two model.\
+Notice that I'm going to separate my data by weekday. That is to say each weekday will have their own best model.
 
 Here's the link of my Project 2: [My Project](https://mu-tien.github.io/ST558_Project-2/)
 
