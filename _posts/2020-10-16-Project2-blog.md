@@ -9,7 +9,7 @@ This file contain the data of the bicycle rentaling. I use the dataset with hour
 I am going to use two different method to build my model.
 First, I will use leave one out cross validation to fit a tree-based regression model. 
 Secondly, I will fit a boosted tree model using cross validation. 
-After that, I will provide some prediction and compare these two model.\
+After that, I will provide some prediction and compare these two model.
 Notice that I'm going to separate my data by weekday. That is to say each weekday will have their own best model.
 
 Here's the link of my Project 2: [My Project](https://mu-tien.github.io/ST558_Project-2/)
