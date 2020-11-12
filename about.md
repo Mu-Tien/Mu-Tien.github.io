@@ -7,18 +7,18 @@ permalink: /about/
 My name is **Mu-Tien, Lee**. I'm a second-year master student in *statistics program* at NCSU. 
 
 ### My Professional Experience
-Statistician of Research, NCSU	Oct 2020 – Present\
+**Statistician of Research, NCSU**	*Oct 2020 – Present*\
 • Analyzed research data from the study: Cats Are Not Dogs: Addressing Drug Failure in Cats\
 • Summarized the data to characterize feline GI physiology using R\
 • Compared GI physiological factors between the fed and fasted state\
 • Analyzed intra- and inter-individual variation of GI physiological factors
 
-Intern, Actuarial Department, Taiwan Life Insurance Co., Ltd	Jun 2018 - Sep 2018\
+**Intern**, Actuarial Department, Taiwan Life Insurance Co., Ltd	*Jun 2018 - Sep 2018*\
 • Constructed the database for all the life and health insurance sold.\
 • Examined the claim factors of all the life and health insurance using Excel VBA\
 • Assisted the research to identify which statistical distribution can best predict the distribution of the future population\
 
-Intern, Institute of Mathematics, Academia Sinica, Taiwan, R.O.C	Jun 2017 – Sep 2017
+**Intern**, Institute of Mathematics, Academia Sinica, Taiwan, R.O.C	*Jun 2017 – Sep 2017*
 • Learned Probability Theory and its applications. \
 • Investigated the mathematical prove behind the Game Theory.
 
