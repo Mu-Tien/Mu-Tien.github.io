@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Response to my fisrt after learning more about R
+title: Response to my first after learning more about R
 ---
 
 1. **What (if anything) has changed about what you think a data scientist is and what they do**\
