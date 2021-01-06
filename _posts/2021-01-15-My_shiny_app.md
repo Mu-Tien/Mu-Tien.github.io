@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Shiny App: Using 13 symptoms to predict the testing result of Diabetes
+title: My First Shiny App - Using 13 symptoms to predict the testing result of Diabetes
 ---
 
 Here's the link of my app: [My App](https://mu-tien-lee.shinyapps.io/Diabetes/)
