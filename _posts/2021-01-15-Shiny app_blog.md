@@ -4,7 +4,7 @@ layout: post
 title: My First Shiny App: Using 13 symptoms to predict the testing result of Diabetes
 ---
 
-Here's the link of my app: [my App](https://mu-tien-lee.shinyapps.io/Diabetes/)
+Here's the link of my app: [My App](https://mu-tien-lee.shinyapps.io/Diabetes/)
 
 The main idea of this project is to use 13 symptoms with Gender and Age to build a model that can predict the testing result of diabetes. This model can let everyone have a basic idea of whether or not the user is having issue. Since nowadays the medical expenses are high, some people are not willing to go to the hospital for just small symptoms. Therefore, this project can let them do the self-examination at home.\
 
