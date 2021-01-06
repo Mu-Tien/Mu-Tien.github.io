@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: My First Shiny App: Using 13 symptoms to predict the testing result of Diabetes
