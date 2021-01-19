@@ -6,10 +6,10 @@
 name: Mu-Tien, Lee
 
 # Short bio or description (displayed in the header)
-description: Hi, I'm a second year master student in statistics.
+description: Hi, I'm a second year master student in statistics. My current goal is to become a Great data analyst.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/Mu-Tien/Mu-Tien.github.io/master/images/證件照－李沐恬.jpg
+avatar: https://raw.githubusercontent.com/Mu-Tien/Mu-Tien.github.io/master/images/pic.jpg
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: Mu-Tien
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/mu-tien-lee-5156bb189/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
